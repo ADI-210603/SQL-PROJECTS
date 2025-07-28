@@ -21,7 +21,7 @@ This project is a SQL-based database system that manages patient records, doctor
 - Analyze diseases, doctor workload, and department performance
 
 ## 🧠 Advanced SQL Included
-- Joins (INNER JOIN)
+- Joins 
 - Subqueries
 - Aggregate functions
 - Filters using WHERE, LIKE, GROUP BY, HAVING
